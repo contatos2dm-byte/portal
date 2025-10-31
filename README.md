@@ -376,7 +376,7 @@ Este projeto é parte do Coletivo Dois de Muitos e segue a filosofia de bem comu
 Para dúvidas ou sugestões:
 
 1. Abra uma **Issue** no GitHub
-2. Envie um email para contato@2demuitos.art
+2. Envie um email para contatos.2dm@gmail.com
 3. Converse com a IA Manus para ajustes rápidos
 
 ---

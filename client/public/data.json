@@ -1,0 +1,153 @@
+{
+  "project": {
+    "name": "Coletivo Dois de Muitos",
+    "tagline": "Somos o que se espalha. Somos o que permanece.",
+    "subtitle": "Arte, som e palavra em movimento coletivo.",
+    "description": "Desde 2018, cultivamos redes, sementes e criações que atravessam corpos e territórios.",
+    "foundedYear": 2018
+  },
+  "manifesto": {
+    "title": "Um arquivo vivo de arte, som e palavra.",
+    "content": "Cada criação registrada é uma semente que gera novas possibilidades. As contribuições são convertidas em movimentos de doação e apoio cultural.",
+    "vision": "O Coletivo Dois de Muitos é um campo aberto de arte e tecnologia social. O que criamos não pertence a um só — pertence à rede que compartilha, cuida e continua."
+  },
+  "works": [
+    {
+      "id": "work_001",
+      "title": "Requiem da Aurora",
+      "type": "Música autoral",
+      "author": "Jackson Tavares Veiga",
+      "registrationDate": "2025-01-15",
+      "hash": "a6b7c8d9e0f1g2h3i4j5k6l7m8n9o0p1",
+      "blockchain": "Polygon",
+      "description": "Composição que explora a intersecção entre tecnologia e ancestralidade sonora.",
+      "links": {
+        "listen": null,
+        "download": null,
+        "view": null
+      }
+    },
+    {
+      "id": "work_002",
+      "title": "Podcast Dois de Muitos",
+      "type": "Episódio de podcast",
+      "author": "Jackson Tavares Veiga",
+      "registrationDate": "2025-01-01",
+      "hash": "b7c8d9e0f1g2h3i4j5k6l7m8n9o0p1q2",
+      "blockchain": "Polygon",
+      "description": "Episódio de podcast apresentando discussões sobre tecnologia, cultura e inovação coletiva.",
+      "links": {
+        "listen": null,
+        "download": null,
+        "view": null
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "collection_001",
+      "name": "🎧 Podcast Dois de Muitos",
+      "emoji": "🎧",
+      "description": "Escute as conversas sobre cultura e inovação coletiva.",
+      "link": null
+    },
+    {
+      "id": "collection_002",
+      "name": "🌺 Jardim Digital TEIAS",
+      "emoji": "🌺",
+      "description": "Um espaço de trocas entre artistas e comunidades.",
+      "link": null
+    },
+    {
+      "id": "collection_003",
+      "name": "✍️ Livros e Poesias",
+      "emoji": "✍️",
+      "description": "Publicações e relatos de oficinas.",
+      "link": null
+    },
+    {
+      "id": "collection_004",
+      "name": "🎶 Músicas Autorais",
+      "emoji": "🎶",
+      "description": "Faixas registradas e compostas no coletivo.",
+      "link": null
+    },
+    {
+      "id": "collection_005",
+      "name": "🪶 Ateliê Móvel",
+      "emoji": "🪶",
+      "description": "Arte ancestral, cerâmica, aromas e ecoindústrias.",
+      "link": null
+    },
+    {
+      "id": "collection_006",
+      "name": "🤖 Chatbot & Rede",
+      "emoji": "🤖",
+      "description": "Canais de acolhimento e mobilização.",
+      "link": null
+    }
+  ],
+  "donations": {
+    "totalRaised": "0.142 MATIC",
+    "conversions": [
+      {
+        "amount": "0.142 MATIC",
+        "convertedTo": "42 cestas básicas",
+        "partner": "Casa Comum",
+        "date": "2025-10-01"
+      }
+    ],
+    "lastUpdate": "2025-10-01"
+  },
+  "participation": {
+    "title": "Como participar",
+    "description": "Você pode doar, registrar uma obra, ou apenas visitar o arquivo. A arte é um bem comum, e cada registro é uma forma de resistência.",
+    "actions": [
+      {
+        "id": "action_donate",
+        "title": "Fazer uma doação simbólica",
+        "icon": "💠"
+      },
+      {
+        "id": "action_register",
+        "title": "Registrar uma criação",
+        "icon": "🪪"
+      },
+      {
+        "id": "action_share",
+        "title": "Divulgar suas próprias obras na rede",
+        "icon": "🌐"
+      },
+      {
+        "id": "action_listen",
+        "title": "Ouvir, ler e sentir",
+        "icon": "👂"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "title": "Manifesto",
+        "url": null,
+        "icon": "📜"
+      },
+      {
+        "title": "GitHub Repo",
+        "url": "https://github.com/coletivo-2demuitos",
+        "icon": "💾"
+      },
+      {
+        "title": "Lattes",
+        "url": "http://lattes.cnpq.br/8939850014070884",
+        "icon": "🧠"
+      },
+      {
+        "title": "PolygonScan",
+        "url": null,
+        "icon": "🔗"
+      }
+    ],
+    "note": "Toda contribuição é pública e transparente — publicada neste mesmo espaço."
+  }
+}

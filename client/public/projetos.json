@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Ateliê Móvel - Arte Ancestral",
+    "emoji": "🪶",
+    "status": "Em Andamento",
+    "data_inicio": "2023",
+    "descricao": "Projeto de ecoindústrias que leva técnicas ancestrais de cerâmica, aromas e artesanato para comunidades. Um espaço de criação coletiva e regeneração.",
+    "impacto": "20+ artesãos envolvidos, 100+ peças criadas, 5 comunidades alcançadas",
+    "link": null
+  },
+  {
+    "id": 2,
+    "titulo": "Jardim Digital TEIAS",
+    "emoji": "🌺",
+    "status": "Ativo",
+    "data_inicio": "2020",
+    "descricao": "Plataforma de trocas entre artistas e comunidades. Um espaço de acolhimento, visibilidade e colaboração para criadores de todas as origens.",
+    "impacto": "500+ artistas conectados, 1000+ obras compartilhadas",
+    "link": null
+  },
+  {
+    "id": 3,
+    "titulo": "Podcast Dois de Muitos",
+    "emoji": "🎧",
+    "status": "Ativo",
+    "data_inicio": "2021",
+    "descricao": "Série de conversas sobre cultura, tecnologia e inovação coletiva. Um espaço de escuta ativa e reflexão compartilhada.",
+    "impacto": "50+ episódios, 10k+ ouvintes, 30+ convidados",
+    "link": null
+  },
+  {
+    "id": 4,
+    "titulo": "Biblioteca de Publicações",
+    "emoji": "📚",
+    "status": "Em Andamento",
+    "data_inicio": "2022",
+    "descricao": "Acervo de livros, poesias e relatos de oficinas. Documentação viva do processo criativo coletivo.",
+    "impacto": "15+ publicações, 3 livros impressos, 200+ leitores",
+    "link": null
+  },
+  {
+    "id": 5,
+    "titulo": "Winds of Yawanawa - Coleção NFT",
+    "emoji": "🌬️",
+    "status": "Em Desenvolvimento",
+    "data_inicio": "2024",
+    "descricao": "Coleção de NFTs que registra e certifica criações autorais, gerando valor social e transparência na blockchain Polygon.",
+    "impacto": "Registro de propriedade intelectual, 5+ obras certificadas, modelo replicável",
+    "link": null
+  }
+]

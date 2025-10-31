@@ -1,0 +1,48 @@
+{
+  "total_arrecadado": "0.142 MATIC",
+  "total_convertido": "42 cestas básicas",
+  "beneficiarios": "120+",
+  "projetos_apoiados": "5",
+  "acoes": [
+    {
+      "id": 1,
+      "titulo": "Distribuição de Cestas Básicas - Comunidade Casa Comum",
+      "descricao": "Parceria com Casa Comum para distribuição de 42 cestas básicas em comunidades de baixa renda.",
+      "data": "Outubro/2025",
+      "valor": "0.142 MATIC",
+      "beneficiarios": "42 famílias"
+    },
+    {
+      "id": 2,
+      "titulo": "Oficina de Cerâmica Ancestral - Ateliê Móvel",
+      "descricao": "Realização de oficina de cerâmica com técnicas ancestrais em comunidade indígena.",
+      "data": "Setembro/2025",
+      "valor": "0.050 MATIC",
+      "beneficiarios": "15 artesãos"
+    },
+    {
+      "id": 3,
+      "titulo": "Bolsa de Pesquisa - Documentação de Práticas Coletivas",
+      "descricao": "Apoio a pesquisador para documentar e sistematizar as práticas coletivas do projeto.",
+      "data": "Agosto/2025",
+      "valor": "0.035 MATIC",
+      "beneficiarios": "1 pesquisador"
+    },
+    {
+      "id": 4,
+      "titulo": "Produção de Podcast - Equipamento e Hospedagem",
+      "descricao": "Investimento em equipamento de qualidade e hospedagem de servidor para o Podcast Dois de Muitos.",
+      "data": "Julho/2025",
+      "valor": "0.025 MATIC",
+      "beneficiarios": "Comunidade de ouvintes"
+    },
+    {
+      "id": 5,
+      "titulo": "Impressão de Livro - Publicação Coletiva",
+      "descricao": "Custeio da impressão de 500 cópias de livro com relatos e poesias do coletivo.",
+      "data": "Junho/2025",
+      "valor": "0.040 MATIC",
+      "beneficiarios": "Comunidade de leitores"
+    }
+  ]
+}

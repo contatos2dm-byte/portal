@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "titulo": "Fundação do Coletivo Dois de Muitos",
+    "descricao": "Início da jornada coletiva com o propósito de cultivar redes, sementes e criações que atravessam corpos e territórios.",
+    "data": "2018-01-01",
+    "categoria": "noticia",
+    "emoji": "🌱"
+  },
+  {
+    "id": 2,
+    "titulo": "Primeiro Podcast Registrado",
+    "descricao": "Lançamento do Podcast Dois de Muitos com conversas sobre cultura, tecnologia e inovação coletiva.",
+    "data": "2021-03-15",
+    "categoria": "musica",
+    "emoji": "🎧"
+  },
+  {
+    "id": 3,
+    "titulo": "Publicação do Primeiro Livro",
+    "descricao": "Impressão e distribuição de 500 cópias do livro com relatos e poesias do coletivo.",
+    "data": "2021-06-20",
+    "categoria": "arte",
+    "emoji": "📚"
+  },
+  {
+    "id": 4,
+    "titulo": "Ateliê Móvel - Primeira Oficina",
+    "descricao": "Realização da primeira oficina de cerâmica ancestral em comunidade indígena.",
+    "data": "2022-02-10",
+    "categoria": "produto",
+    "emoji": "🪶"
+  },
+  {
+    "id": 5,
+    "titulo": "Jardim Digital TEIAS Lançado",
+    "descricao": "Plataforma de trocas entre artistas e comunidades, conectando 500+ criadores.",
+    "data": "2022-05-01",
+    "categoria": "arte",
+    "emoji": "🌺"
+  },
+  {
+    "id": 6,
+    "titulo": "Primeira Doação Convertida em Ação",
+    "descricao": "Arrecadação de 0.050 MATIC convertida em 15 cestas básicas para comunidade Casa Comum.",
+    "data": "2023-08-15",
+    "categoria": "doacao",
+    "emoji": "💝"
+  },
+  {
+    "id": 7,
+    "titulo": "Coleção NFT Winds of Yawanawa",
+    "descricao": "Registro da primeira obra na blockchain Polygon com certificado SHA-256 de autoria.",
+    "data": "2024-01-10",
+    "categoria": "nft",
+    "emoji": "🌬️"
+  },
+  {
+    "id": 8,
+    "titulo": "Requiem da Aurora - Composição Autoral",
+    "descricao": "Composição musical que reflete sobre ciclos de renovação e encontro entre tradição e inovação.",
+    "data": "2024-06-05",
+    "categoria": "musica",
+    "emoji": "🎵"
+  },
+  {
+    "id": 9,
+    "titulo": "Documentação Visual do Ateliê Móvel",
+    "descricao": "Série de imagens documentando o processo artesanal com técnicas ancestrais de cerâmica.",
+    "data": "2024-09-20",
+    "categoria": "arte",
+    "emoji": "📸"
+  },
+  {
+    "id": 10,
+    "titulo": "Transparência Pública - Blockchain",
+    "descricao": "Publicação de todos os registros de transações e doações na blockchain Polygon.",
+    "data": "2024-10-15",
+    "categoria": "noticia",
+    "emoji": "🔗"
+  },
+  {
+    "id": 11,
+    "titulo": "Novo Produto - Aromas Ancestrais",
+    "descricao": "Lançamento de linha de aromas produzidos artesanalmente no Ateliê Móvel.",
+    "data": "2024-11-01",
+    "categoria": "produto",
+    "emoji": "🌿"
+  },
+  {
+    "id": 12,
+    "titulo": "Expansão da Rede - 1000+ Artistas",
+    "descricao": "Jardim Digital TEIAS atinge marca de 1000 obras compartilhadas e 1000+ artistas conectados.",
+    "data": "2025-10-31",
+    "categoria": "noticia",
+    "emoji": "🌍"
+  }
+]

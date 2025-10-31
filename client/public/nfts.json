@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "titulo": "Winds of Yawanawa - Episódio 1",
+    "tipo": "Áudio",
+    "emoji": "🎧",
+    "data": "15/01/2025",
+    "descricao": "Episódio inaugural da coleção Winds of Yawanawa, apresentando discussões sobre tecnologia, cultura e inovação coletiva com os povos originários.",
+    "hash": "a6b7c8d9e0f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7",
+    "blockchain": "Polygon",
+    "autor": "Akã Yabytã",
+    "link_ouvir": "https://anchor.fm/",
+    "link_download": null
+  },
+  {
+    "id": 2,
+    "titulo": "Requiem da Aurora - Composição Autoral",
+    "tipo": "Música",
+    "emoji": "🎵",
+    "data": "10/01/2025",
+    "descricao": "Composição musical autoral que reflete sobre os ciclos de renovação e o encontro entre tradição e inovação.",
+    "hash": "b7c8d9e0f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7g8",
+    "blockchain": "Polygon",
+    "autor": "Akã Yabytã",
+    "link_ouvir": "https://open.spotify.com/",
+    "link_download": "https://example.com/requiem.mp3"
+  },
+  {
+    "id": 3,
+    "titulo": "Teias de Encontro - Publicação",
+    "tipo": "Texto",
+    "emoji": "📖",
+    "data": "05/01/2025",
+    "descricao": "Manifesto e relatos sobre as redes de trocas entre artistas e comunidades. Um documento vivo sobre colaboração coletiva.",
+    "hash": "c8d9e0f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7g8h9",
+    "blockchain": "Polygon",
+    "autor": "Akã Yabytã",
+    "link_ouvir": null,
+    "link_download": "https://example.com/teias.pdf"
+  },
+  {
+    "id": 4,
+    "titulo": "Ateliê Móvel - Documentação Visual",
+    "tipo": "Imagem",
+    "emoji": "🪶",
+    "data": "01/01/2025",
+    "descricao": "Série de imagens documentando o processo artesanal do Ateliê Móvel, com técnicas ancestrais de cerâmica e aromas.",
+    "hash": "d9e0f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7g8h9i0",
+    "blockchain": "Polygon",
+    "autor": "Akã Yabytã",
+    "link_ouvir": null,
+    "link_download": null
+  },
+  {
+    "id": 5,
+    "titulo": "Podcast Dois de Muitos - Série Completa",
+    "tipo": "Áudio",
+    "emoji": "🎙️",
+    "data": "20/12/2024",
+    "descricao": "Série de podcasts conversando sobre arte, tecnologia e inovação coletiva. Um espaço de acolhimento e mobilização.",
+    "hash": "e0f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7g8h9i0j1",
+    "blockchain": "Polygon",
+    "autor": "Akã Yabytã",
+    "link_ouvir": "https://anchor.fm/",
+    "link_download": null
+  }
+]
